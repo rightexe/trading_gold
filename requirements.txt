@@ -1,3 +1,4 @@
 websockets
 uvicorn
 gunicorn
+fastapi
